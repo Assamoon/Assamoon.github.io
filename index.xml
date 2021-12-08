@@ -6,32 +6,82 @@
     <description>Recent content on World of Witcher 3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>All rights reserved - 2016</copyright><atom:link href="https://assamoon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://assamoon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>data analysis</title>
-      <link>https://assamoon.github.io/post/1/01/01/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Why we do that </title>
+      <link>https://assamoon.github.io/post/2021/12/08/test/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://assamoon.github.io/post/1/01/01/test/</guid>
-      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+      <guid>https://assamoon.github.io/post/2021/12/08/test/</guid>
+      <description>The Witcher 3 is an excellent RPG game; the studio revealed The Witcher 3&amp;rsquo;s sales numbers topped 28 million by the end of 2019. The Witcher 3 was recognized as game of the year by IGN, GameSpot, Game Informer and other gaming publications. The game received a Golden Joystick Award for Best Storytelling, Best Visual Design, and Best Gaming Moment, and The Game Awards for Best Role-Playing Game and Studio of the Year for CD Projekt Red.</description>
     </item>
     
     <item>
-      <title>data analysis</title>
-      <link>https://assamoon.github.io/post/1/01/01/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Dataset</title>
+      <link>https://assamoon.github.io/post/2021/12/07/test/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://assamoon.github.io/post/1/01/01/test/</guid>
-      <description>echo &amp;#34;hello world1 !!&amp;#34; </description>
+      <guid>https://assamoon.github.io/post/2021/12/07/test/</guid>
+      <description>The game is famous and has catalyzed many communities. However, to limit the scope of the project, the data that will be used is from two sources. The original data comes from [Wikipedia][https://witcher.fandom.com/wiki/Witcher_Wiki], which is the main source of this project. We extract 730 characters and 121 monsters from &amp;ldquo;The Witcher 3&amp;rdquo; and its DLCs (Downloadable content, is additional content created for an already released video game). Another dataset is from [Transcripts Fandom][https://transcripts.</description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://assamoon.github.io/post/2021/12/06/test/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://assamoon.github.io/post/2021/12/06/test/</guid>
+      <description>The network consists with 787 nodes and 1514 edges which contains all the creatures included both characters and bestiaries. Each character has different attributes, such as race, profession, nationality, etc. Monsters have eleven categories, such as Elementa, Hybrids, and their respective locations. Some characters are also belongs to bestiaries, that&amp;rsquo;s why the nodes is 787 rather than 730 + 121 = 851.
+These graph shows a little more variety, but most of the nodes from this subset of nodes with a degree higher than 5 have a degree lower than around 50.</description>
+    </item>
+    
+    <item>
+      <title>Distribution of bestiary</title>
+      <link>https://assamoon.github.io/post/2021/12/05/test/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://assamoon.github.io/post/2021/12/05/test/</guid>
+      <description>Where are the bestiaries?  In the world of The Witcher 3, the conflict between humans and monsters occupies most of the chapter. In the game, the player often encounters the choice of whether to favor non-human creatures or humans. Which side to choose to help? Kind monsters or malicious human beings. The choices made by the players have different consequences. we can see radanian has most types of bestiary, you can check the information of Radanian.</description>
+    </item>
+    
+    <item>
+      <title>happy and sad</title>
+      <link>https://assamoon.github.io/post/2021/12/04/test/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://assamoon.github.io/post/2021/12/04/test/</guid>
+      <description>top 10 happy  The two happiest people are Merchant (Blandare) and Merchant (Larvik), both merchants. Their nationality are both skellige.And We can see that the Grossbar brothers are all on the list and their nationality is also skellige. This shows that the residents of skellige at least expressed more happiness in their lines.
+ top 10 sad   The two saddest people are prison warden and dirk An unnamed Prison Warden was a high-ranking official of the witch hunters who presided over Deireadh prison and commanded its garrison until 1272 Dirk was a cruel and sadistic torturer who worked for the witch hunters.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of Dialog</title>
+      <link>https://assamoon.github.io/post/2021/12/03/test/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://assamoon.github.io/post/2021/12/03/test/</guid>
+      <description>Which characters use the most words in total?
+Geralt and Yennefer should be the main characters, but their sentence is short corresponding to their characteristic: very decisive and executive. While Jaskie, the green bar, he is a poet, minstrel, bard, and Geralt&amp;rsquo;s best friend. Obviously his constant chatter did live up to his career, which is why he was hated by Geralt in the first place. The blue one is Stregobor, a magic, who likes to say something unfathomable, like riddles, which is complicated and annoying.</description>
     </item>
     
     <item>
       <title>Wordcloud</title>
-      <link>https://assamoon.github.io/post/1/01/01/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://assamoon.github.io/post/2021/12/02/test/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://assamoon.github.io/post/1/01/01/test/</guid>
-      <description>https://gohugo.io/documentation/</description>
+      <guid>https://assamoon.github.io/post/2021/12/02/test/</guid>
+      <description>The four main races in The Witcher 3   The stories, connections, and conflicts between Geralt and characters from other races. It is also why the Witcher 3 game is rich in content and more immersive.We use word clouds to analyze high-frequency words of different races, their characteristics and their connections with Geralt.    We can see in the word cloud of human ,the words: human and humans have the highest frequency.</description>
+    </item>
+    
+    <item>
+      <title>conclusion</title>
+      <link>https://assamoon.github.io/post/2021/12/01/test/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://assamoon.github.io/post/2021/12/01/test/</guid>
+      <description> From the above analysis, we can find that the background story and settings of The Witcher 3 are related to the performance of the characters in the game and the distribution of monsters. This also proves that building a game world in which the lines and stories are not inconsistent can greatly improve the player&amp;rsquo;s sense of immersion.
+  </description>
     </item>
     
   </channel>
